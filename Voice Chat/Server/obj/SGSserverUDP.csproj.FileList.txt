@@ -1,0 +1,8 @@
+bin\Debug\Server.exe
+bin\Debug\Server.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Server.SGSserverForm.resources
+obj\Debug\Server.Properties.Resources.resources
+obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+obj\Debug\Server.exe
+obj\Debug\Server.pdb

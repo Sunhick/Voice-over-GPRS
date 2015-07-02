@@ -1,0 +1,41 @@
+C:\Users\mrmanju\Desktop\MobiGPTalk 08032009\SGSserverUDP\Server\obj\Debug\Server.exe
+C:\Users\mrmanju\Desktop\MobiGPTalk 08032009\SGSserverUDP\Server\obj\Debug\Server.pdb
+C:\Users\mrmanju\Desktop\MobiGPTalk 08032009\SGSserverUDP\Server\bin\Debug\Server.exe
+C:\Users\mrmanju\Desktop\MobiGPTalk 08032009\SGSserverUDP\Server\bin\Debug\Server.pdb
+C:\Users\mrmanju\Desktop\MobiGPTalk 08032009\SGSserverUDP\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mrmanju\Desktop\MobiGPTalk 08032009\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\mrmanju\Desktop\MobiGPTalk 08032009\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+C:\Users\mrmanju\Desktop\MobiGPTalk 08032009\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\Server.exe
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\Server.pdb
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\SGSserverUDP\Server\bin\Debug\Server.exe
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\SGSserverUDP\Server\bin\Debug\Server.pdb
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\Server.exe
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\Server.pdb
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\MobiGPTalk 10032009\SGSserverUDP\Server\bin\Debug\Server.exe
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\MobiGPTalk 10032009\SGSserverUDP\Server\bin\Debug\Server.pdb
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+C:\Users\mrmanju\Desktop\MobiGPTalk 10032009\MobiGPTalk 10032009\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+C:\Users\mrmanju\Desktop\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\Server.exe
+C:\Users\mrmanju\Desktop\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\Server.pdb
+C:\Users\mrmanju\Desktop\demo\Voice Chat\SGSserverUDP\Server\bin\Debug\Server.exe
+C:\Users\mrmanju\Desktop\demo\Voice Chat\SGSserverUDP\Server\bin\Debug\Server.pdb
+C:\Users\mrmanju\Desktop\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mrmanju\Desktop\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\mrmanju\Desktop\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+C:\Users\mrmanju\Desktop\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+J:\project\VOG_project\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\Server.exe
+J:\project\VOG_project\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\Server.pdb
+J:\project\VOG_project\demo\Voice Chat\SGSserverUDP\Server\bin\Debug\Server.exe
+J:\project\VOG_project\demo\Voice Chat\SGSserverUDP\Server\bin\Debug\Server.pdb
+J:\project\VOG_project\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\ResolveAssemblyReference.cache
+J:\project\VOG_project\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+J:\project\VOG_project\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+J:\project\VOG_project\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\GenerateResource-ResGen.read.1.tlog
+J:\project\VOG_project\demo\Voice Chat\SGSserverUDP\Server\obj\Debug\GenerateResource-ResGen.write.1.tlog

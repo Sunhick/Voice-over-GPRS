@@ -1,0 +1,35 @@
+C:\Users\mrmanju\Desktop\tcp mobigptalk\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\mrmanju\Desktop\tcp mobigptalk\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\mrmanju\Desktop\tcp mobigptalk\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\mrmanju\Desktop\tcp mobigptalk\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\mrmanju\Desktop\tcp mobigptalk\SocketServer\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mrmanju\Desktop\tcp mobigptalk\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\mrmanju\Desktop\tcp mobigptalk\SocketServer\SocketServer\obj\Debug\SocketServer.SocketServer.resources
+C:\Users\mrmanju\Desktop\tcp mobigptalk\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+C:\Users\mrmanju\Desktop\MobiGP talk_various variations\Voicemail\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\mrmanju\Desktop\MobiGP talk_various variations\Voicemail\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\mrmanju\Desktop\MobiGP talk_various variations\Voicemail\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\mrmanju\Desktop\MobiGP talk_various variations\Voicemail\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\mrmanju\Desktop\MobiGP talk_various variations\Voicemail\SocketServer\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mrmanju\Desktop\MobiGP talk_various variations\Voicemail\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\mrmanju\Desktop\MobiGP talk_various variations\Voicemail\SocketServer\SocketServer\obj\Debug\SocketServer.SocketServer.resources
+C:\Users\mrmanju\Desktop\MobiGP talk_various variations\Voicemail\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+C:\Users\mrmanju\Desktop\demo\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\mrmanju\Desktop\demo\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\mrmanju\Desktop\demo\Voice mail\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\mrmanju\Desktop\demo\Voice mail\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\mrmanju\Desktop\demo\Voice mail\SocketServer\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mrmanju\Desktop\demo\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\mrmanju\Desktop\demo\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.SocketServer.resources
+C:\Users\mrmanju\Desktop\demo\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+J:\project\VOG_project\demo\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+J:\project\VOG_project\demo\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Sujay\Desktop\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Sujay\Desktop\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+C:\Users\Sujay\Desktop\Voice mail\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Sujay\Desktop\Voice mail\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Sujay\Desktop\Voice mail\SocketServer\SocketServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sujay\Desktop\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\Sujay\Desktop\Voice mail\SocketServer\SocketServer\obj\Debug\SocketServer.SocketServer.resources
+C:\Users\Sujay\Desktop\Voice mail\SocketServer\SocketServer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Sujay\Desktop\Voice mail\SocketServer\SocketServer\obj\Debug\GenerateResource-ResGen.write.1.tlog
