@@ -14,23 +14,28 @@ Expensive.
 ## New system: Voice Over GPRS
 
 * Since mobile phones are used, immobility can be overcome.
+
 * Now-a-days packet data is affordable and calls can be made inexpensively through GPRS compared to GSM.
 
 ## Existing system
 
 * Voice over IP is currently being used in Skype, g-talk, Nimbuzz, etc.
+
 * VoIP uses Packet switching technology.
+
 * GSM networks are currently used widely for making calls. 
+
 * GSM calls are based on  circuit switching technology
 
 ## Drawbacks of existing system
 
 * The main drawback of VoIP is that they have to be loaded on PCs. The user is confined to a particular location.
+
 * The cost per call on GSM networks is very expensive, especially calls made overseas.
 
 ## Proposed System
 
-*The Voice over GPRS includes 3 subsystems:*
+**The Voice over GPRS includes 3 subsystems:**
 
 * Voice Mail is a feature that helps a mobile user to leave a voice message when other user with which he wishes to communicate is offline.
 
@@ -58,7 +63,7 @@ Expensive.
 
 # System Design
 
-*Voice Chat Application*
+**Voice Chat Application**
 
 The interaction of the client with the server is explained as follows:
 
@@ -72,7 +77,7 @@ The interaction of the client with the server is explained as follows:
 
 * And the steps 2 to 4 repeats further until the call is disconnected by either of the two clients.
 
-*Voice Mail Application*
+**Voice Mail Application**
 
 The interaction of the client with the server is explained as follows:
 
@@ -90,7 +95,7 @@ The interaction of the client with the server is explained as follows:
 
 * And the client plays the received voice mail.
 
-*Virtual Class Room Application* 
+**Virtual Class Room Application**
 
 The interaction of the client with the server is explained as follows:
 
